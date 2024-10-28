@@ -36,7 +36,7 @@ This solution is implemented in Python using:
 
 ## How to run the program
 
-1. **Clone the repository:**
+1. **Clone the repository or download the code files:**
    ```bash
    git clone https://github.com/your-username/barber-shop-problem.git
    ```
