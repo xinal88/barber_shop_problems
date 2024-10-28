@@ -34,6 +34,11 @@ This solution is implemented in Python using:
 - `barber_shop.py`: Contains the main code for the Barber Shop problem simulation.
 - `README.md`: Documentation (this file).
 
+## Team Member
+- Bùi Đăng Qúy - 20225995
+- Trịnh Mạnh Quỳnh - 20226064
+- Phạm Quang Anh - 20220071
+- Ngô Minh Trung - 20226004
 ## How to run the program
 
 1. **Clone the repository or download the code files:**
